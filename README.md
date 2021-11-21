@@ -1,6 +1,6 @@
-### Hi there 👋, I ' m Linuka Arambawela
+### Hi there 👋, I 'm Linuka Arambawela
 #### Desing & Develop
-![Desing & Develop](https://scontent.fcmb4-2.fna.fbcdn.net/v/t39.30808-6/259939866_1773923722997558_98254505504001492_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=730e14&_nc_ohc=4liMh1cP98MAX_2-vA-&tn=gbN-d8SVqa7W16DK&_nc_ht=scontent.fcmb4-2.fna&oh=a5ab3b1d0153bf56ca41bc99a564db30&oe=619F7A2D)
+![Desing & Develop](https://scontent.fcmb4-2.fna.fbcdn.net/v/t39.30808-6/259860405_1773928726330391_718887781833856210_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=730e14&_nc_ohc=K1d7i88dI_sAX_RlSam&tn=gbN-d8SVqa7W16DK&_nc_ht=scontent.fcmb4-2.fna&oh=583dd9820312fba3121f9782d846c795&oe=619E5F41)
 
 
 Skills: CSS /HTML /Python /Php/Arduino/Linux 
@@ -18,8 +18,6 @@ Skills: CSS /HTML /Python /Php/Arduino/Linux
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinukaAr)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LinukaAr&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=LinukaAr)  
 
 ![GitHub metrics](https://metrics.lecoq.io/LinukaAr)  
 
