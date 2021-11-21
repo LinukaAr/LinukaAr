@@ -1,27 +1,28 @@
-<h1 align="center">Hi 👋, I'm Linuka Arambawela</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=linukaar&label=Profile%20views&color=0e75b6&style=flat" alt="linukaar" /> </p>
+### Hi there 👋, I ' m Linuka Arambawela
+#### Desing & Develop
+![Desing & Develop](https://scontent.fcmb4-2.fna.fbcdn.net/v/t39.30808-6/259939866_1773923722997558_98254505504001492_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=730e14&_nc_ohc=4liMh1cP98MAX_2-vA-&tn=gbN-d8SVqa7W16DK&_nc_ht=scontent.fcmb4-2.fna&oh=a5ab3b1d0153bf56ca41bc99a564db30&oe=619F7A2D)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=linukaar" alt="linukaar" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+Skills: CSS /HTML /Python /Php/Arduino/Linux 
 
-- 🌱 I’m currently learning **WEB Desinging**
+- 🔭 I’m currently working on  https://linukaar.github.io/Linukatest/ 
+- 📫 How to reach me: linukaar.info@gmail.com 
 
-- 📫 How to reach me **linukaar.info@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100011398414568" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100011398414568" height="30" width="40" /></a>
-</p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/LinukaAr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100011398414568)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>]( https://linukaar.github.io/Linukatest/)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/LinukaAr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="LinukaAr" /></a></p><br><br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=LinukaAr)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=linukaar&show_icons=true&locale=en&layout=compact" alt="linukaar" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinukaAr)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=linukaar&show_icons=true&locale=en" alt="linukaar" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=LinukaAr&show_icons=true&count_private=true)  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=linukaar&" alt="linukaar" /></p>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=LinukaAr)  
+
+![GitHub metrics](https://metrics.lecoq.io/LinukaAr)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=LinukaAr)  
+
+![Profile views](https://gpvc.arturio.dev/LinukaAr)  
