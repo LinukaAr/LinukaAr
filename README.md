@@ -12,7 +12,7 @@ Skills: CSS /HTML /Python /Php/Arduino/Linux
 - 📫 How to reach me: linukaar.info@gmail.com 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/LinukaAr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="LinukaAr" /></a></p>
+<p><a href="https://www.buymeacoffee.com/LinukaAr" target="_blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="LinukaAr" /></a></p>
 <br><br>
 
 <h3 align="left">Connect with me:</h3>
@@ -33,4 +33,3 @@ Skills: CSS /HTML /Python /Php/Arduino/Linux
 
 ![GitHub metrics](https://metrics.lecoq.io/LinukaAr)  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=linukar" alt="linukar" /></a> 
