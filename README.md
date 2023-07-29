@@ -9,7 +9,7 @@
 Skills: CSS /HTML/Java/sql/Arduino/Linux 
 
 
-- 🔭<a href="[https://www.example.com](https://drive.google.com/file/d/1RbtiNhf_eGPhCaAY4aB72o6N6LmAfRuA/view)" target="_blank">Download my CV</a>
+- <a href="[https://www.example.com](https://drive.google.com/file/d/1RbtiNhf_eGPhCaAY4aB72o6N6LmAfRuA/view)" target="_blank">🔭Download my CV</a>
 - 📫 How to reach me: linukaar.info@gmail.com 
 
 <h3 align="left">Support:</h3>
