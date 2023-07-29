@@ -8,7 +8,7 @@
 
 Skills: CSS /HTML/Java/sql/Arduino/Linux 
 
-- 🔭 I’m currently working on  https://linukaar.github.io/Linukatest/ 
+- 🔭Download my CV: bit.ly/44MTyBx
 - 📫 How to reach me: linukaar.info@gmail.com 
 
 <h3 align="left">Support:</h3>
