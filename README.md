@@ -6,7 +6,7 @@
 <img src="https://scontent.fcmb4-2.fna.fbcdn.net/v/t39.30808-6/259860405_1773928726330391_718887781833856210_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=730e14&_nc_ohc=K1d7i88dI_sAX_RlSam&tn=gbN-d8SVqa7W16DK&_nc_ht=scontent.fcmb4-2.fna&oh=583dd9820312fba3121f9782d846c795&oe=619E5F41">
 
 
-Skills: CSS /HTML/Java/sql/Arduino/Linux 
+Skills: CSS /HTML/Java/Hibernate/Bootsrap/SQL/Arduino/Linux 
 
 
 - 🔭<a href="https://drive.google.com/file/d/1fSNNlvi5fiwoAHjgexNgFnqekj6dWB18/view?usp=sharing" target="_blank">Download my CV</a>
