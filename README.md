@@ -36,10 +36,10 @@ Skills: CSS /HTML/Java/Hibernate/Bootsrap/SQL/Arduino/Linux
   </a>
 
   <a href="https://hibernate.org/" target="_blank" rel="noreferrer">
-    <img src="https://o.remove.bg/downloads/cfa3e535-896a-4136-85eb-9cb1f8be74a2/image-removebg-preview.png" alt="hibernate" width="50" height="50"/>
+    <img src="https://o.remove.bg/downloads/0a86b457-0dc0-4af7-8c3e-fcb5ccdf8a3b/image-removebg-preview.png" alt="hibernate" width="50" height="50"/>
   </a>
 
-  <a href="http://hibernate.org" target="_blank" rel="noreferrer">
+  <a href="//////" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
 
