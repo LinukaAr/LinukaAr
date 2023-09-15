@@ -70,7 +70,9 @@ Skills: CSS /HTML/Java/Hibernate/Bootsrap/SQL/Arduino/Linux
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinukaAr)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LinukaAr&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=LinukaAr&theme=transparent&border_radius=5&hide_border=true&card_width=0&line_height=20&rank_icon=github)  
 
 ![GitHub metrics](https://metrics.lecoq.io/LinukaAr)  
+
+ <!-- https://github-readme-stats.vercel.app/api?username=LinukaAr&show_icons=true&count_private=true  -->
 
