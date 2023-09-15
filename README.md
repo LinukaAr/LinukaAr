@@ -74,9 +74,12 @@ Skills: CSS /HTML/Java/Hibernate/Bootsrap/SQL/Arduino/Linux
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LinukaAr&theme=transparent&border_radius=5&hide_border=true&card_width=0&line_height=20&rank_icon=github)  
 
-![GitHub metrics](https://metrics.lecoq.io/LinukaAr)  
+<img width=390 src="https://streak-stats.demolab.com/?user=LinukaAr&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 
- <!--https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"
+
+
+ <!-- ![GitHub metrics](https://metrics.lecoq.io/LinukaAr)  
+ https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"
 
  https://github-readme-stats.vercel.app/api?username=LinukaAr&show_icons=true&count_private=true  -->
 
