@@ -36,7 +36,7 @@ Skills: CSS /HTML/Java/Hibernate/Bootsrap/SQL/Arduino/Linux
   </a>
 
   <a href="https://hibernate.org/" target="_blank" rel="noreferrer">
-    <img src="https://drive.google.com/file/d/1IoRGKvP6URSPrnRry0PYlWNMTvVls95b/view?usp=sharing" alt="hibernate" width="40" height="40"/>
+    <img src="https://github.com/LinukaAr/Badges/blob/main/image-removebg-preview.png" alt="hibernate" width="40" height="40"/>
   </a>
 
   <a href="//////" target="_blank" rel="noreferrer">
