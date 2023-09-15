@@ -1,4 +1,6 @@
-<h1> Hi there 🔅, I 'm Linuka Arambawela </h1> 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Linuka+Arambawela!;" />
+</h1>
 <h2> Desing & Develop </h2>
 👀 I’m interested in Developing & Desinging<br>
 - 🔘 I’m currently learning Java<br>
