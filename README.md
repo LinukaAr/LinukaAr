@@ -72,10 +72,12 @@ Skills: CSS /HTML/Java/Hibernate/Bootsrap/SQL/Arduino/Linux
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinukaAr&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
-<img width=390 src="https://github-readme-stats-LinukaAr.vercel.app/api?username=LinukaAr&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /> <br/>
-
-
 <img width=390 src="https://streak-stats.demolab.com/?user=LinukaAr&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=LinukaAr&theme=transparent&border_radius=5&hide_border=true&card_width=0&line_height=20&rank_icon=github)  
+
+
+
 
 
 
