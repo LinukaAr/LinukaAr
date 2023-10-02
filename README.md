@@ -8,7 +8,7 @@
 
 
 
-Skills: CSS /HTML/Java/Hibernate/Bootsrap/SQL/Arduino/Linux 
+Skills: CSS /HTML/JavaScript/Java/Hibernate/Bootsrap/SQL/Arduino/Linux 
 
 
 - 🔭<a href="https://drive.google.com/file/d/1fSNNlvi5fiwoAHjgexNgFnqekj6dWB18/view?usp=sharing" target="_blank">Download my CV</a>
@@ -47,6 +47,10 @@ Skills: CSS /HTML/Java/Hibernate/Bootsrap/SQL/Arduino/Linux
 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.w3.org/javaScript/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
