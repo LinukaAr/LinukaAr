@@ -80,6 +80,9 @@ Skills: CSS /HTML/JavaScript/Java/Hibernate/Bootsrap/SQL/Arduino/Linux
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LinukaAr&theme=transparent&border_radius=5&hide_border=true&card_width=0&line_height=20&rank_icon=github)  
 
+[![An image of @linukaar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/linukaar)](https://holopin.io/@linukaar)
+
+
 
 
 
