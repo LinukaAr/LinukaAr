@@ -11,7 +11,7 @@
 Skills: CSS /HTML/JavaScript/Java/Hibernate/Bootsrap/SQL/Arduino/Linux 
 
 
-- 🔭<a href="https://drive.google.com/file/d/1fSNNlvi5fiwoAHjgexNgFnqekj6dWB18/view?usp=sharing" target="_blank">Download my CV</a>
+- 🔭<a href="https://drive.google.com/drive/folders/1Fr4FEvTsbg78oJzoTCTcGbH58O8syNxW" target="_blank">Download my CV</a>
 - 📫 How to reach me: linukaar.info@gmail.com 
 
 <h3 align="left">Support:</h3>
@@ -21,7 +21,7 @@ Skills: CSS /HTML/JavaScript/Java/Hibernate/Bootsrap/SQL/Arduino/Linux
 <h3 align="left">Connect with me:</h3>
 <p><a href="https://github.com/LinukaAr"target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'> </a>
 <a href="https://www.facebook.com/profile.php?id=100011398414568"target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'w> </a> 
-<a href="https://linukaar.github.io/Linukatest/"target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'> </a></p> 
+<a href="www.linukaarambawela.me"target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'> </a></p> 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
