@@ -19,9 +19,11 @@ Skills: CSS /HTML/JavaScript/Java/Hibernate/Bootsrap/SQL/Arduino/Linux
 <br><br>
 
 <h3 align="left">Connect with me:</h3>
-<p><a href="https://github.com/LinukaAr"target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'> </a>
+<p>
+<a href="https://linukaarambawela.me/"target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'> </a>
+<a href="https://github.com/LinukaAr"target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'> </a>
 <a href="https://www.facebook.com/profile.php?id=100011398414568"target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'w> </a> 
-<a href="www.linukaarambawela.me"target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'> </a></p> 
+</p> 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
