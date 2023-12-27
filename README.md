@@ -11,8 +11,9 @@
 Skills: CSS /HTML/JavaScript/Java/Hibernate/Bootsrap/SQL/Arduino/Linux 
 
 
-- 🔭<a href="https://drive.google.com/drive/folders/1Fr4FEvTsbg78oJzoTCTcGbH58O8syNxW" target="_blank">Download my CV</a>
-- 📫 How to reach me: www.linukaarambawela.me
+- 🏅<span style="text-decoration: none;"><a href="https://drive.google.com/drive/folders/1Fr4FEvTsbg78oJzoTCTcGbH58O8syNxW" target="_blank">Download my CV</a></span>
+- 💻<span style="text-decoration: none;"><a href="www.linukaarambawela.me" target="_blank">Personal Portfolio</a></span>
+
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/LinukaAr" target="_blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="LinukaAr" /></a></p>
