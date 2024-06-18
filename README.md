@@ -3,12 +3,9 @@
 </h1>
 <h2> Desing & Develop </h2>
 👀 I’m interested in Developing & Desinging<br>
-- 🔘 I’m currently learning Java<br>
-- 🔘 I’m looking to collaborate with who are interested at tech<br>
+- 🔘 DM to colab<br>
 
-
-
-Skills: CSS /HTML/JavaScript/Java/Hibernate/Bootsrap/SQL/Arduino/Linux 
+Skills: JavaScript/Java/Python/CSS /HTML/Bootsrap/Springboot/ReactJs/SQL/Azure/Arduino 
 
 - 🏅<a href="https://drive.google.com/drive/folders/1Fr4FEvTsbg78oJzoTCTcGbH58O8syNxW" target="_blank">Download my CV</a>
 - 💻<a href="https://linukaarambawela.me/" target="_blank">Personal Portfolio</a>
