@@ -74,12 +74,13 @@ Skills: JavaScript/Java/Python/CSS /HTML/Bootsrap/Springboot/ReactJs/SQL/Azure/A
 <img width=390 src="https://streak-stats.demolab.com/?user=LinukaAr&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LinukaAr&theme=transparent&border_radius=5&hide_border=true&card_width=0&line_height=20&rank_icon=github)  
-
-# Swags
+# Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+
+# Swags
 [![An image of @linukaar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/linukaar)](https://holopin.io/@linukaar)
 
 
