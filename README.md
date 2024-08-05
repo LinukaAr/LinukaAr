@@ -75,7 +75,7 @@ Skills: JavaScript/Java/Python/CSS /HTML/Bootsrap/Springboot/ReactJs/SQL/Azure/A
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LinukaAr&theme=transparent&border_radius=5&hide_border=true&card_width=0&line_height=20&rank_icon=github)  
 
-# Blog posts
+# Swags
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
