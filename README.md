@@ -77,6 +77,9 @@ Skills: JavaScript/Java/Python/CSS /HTML/Bootsrap/Springboot/ReactJs/SQL/Azure/A
 # Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+<li><a href="https://medium.com/@linukaarambawela/cloud-computing-101-introduction-to-azure-58be800ae16b?source=rss-1e74636a6ac6------2">Cloud Computing 101: Introduction to Azure</a></li>
+<li><a href="https://medium.com/@linukaarambawela/apis-101-introduction-to-postman-b66ef21d32d5?source=rss-1e74636a6ac6------2">APIs 101: Introduction to Postman</a></li>
+<li><a href="https://medium.com/@linukaarambawela/beyond-http-leveraging-websockets-for-real-time-communication-05e5c4661faa?source=rss-1e74636a6ac6------2">Beyond HTTP: Leveraging WebSockets for Real-Time Communication</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 
