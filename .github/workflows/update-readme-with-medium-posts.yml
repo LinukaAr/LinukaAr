@@ -1,0 +1,40 @@
+name: Update README with Medium Blog Posts
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Runs every hour
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+
+    - name: Fetch Medium RSS Feed
+      run: curl -s "https://medium.com/feed/@linukaarambawela" -o medium_feed.xml
+
+    - name: Install xmlstarlet
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y xmlstarlet
+
+    - name: Extract Blog Posts
+      id: extract_posts
+      run: |
+        xmlstarlet sel -t -m '//item[position()<=5]' \
+        -v 'normalize-space(link)' -o ' ' \
+        -v 'normalize-space(title)' -n medium_feed.xml | \
+        awk '{print "<li><a href=\"" $1 "\">" substr($0, index($0,$2)) "</a></li>"}' > blog_posts.html
+
+    - name: Update README
+      run: |
+        sed -i '/<!-- BLOG-POST-LIST:START -->/,/<!-- BLOG-POST-LIST:END -->/{//!d}' README.md
+        sed -i '/<!-- BLOG-POST-LIST:START -->/r blog_posts.html' README.md
+
+    - name: Commit Changes
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: Update README with latest Medium posts
+        branch: main
