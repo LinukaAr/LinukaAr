@@ -2,7 +2,7 @@ name: Update README with Medium Blog Posts
 
 on:
   schedule:
-    - cron: '0 * * * *' # Runs every hour
+    - cron: '0 0 */2 * *' # Runs every two days at midnight
   workflow_dispatch:
 
 jobs:
