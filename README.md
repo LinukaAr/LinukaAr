@@ -10,16 +10,20 @@ Skills: JavaScript/Java/Python/CSS /HTML/Bootsrap/Springboot/ReactJs/SQL/Azure/A
 - 🏅<a href="https://drive.google.com/drive/folders/1Fr4FEvTsbg78oJzoTCTcGbH58O8syNxW" target="_blank">Download my CV</a>
 - 💻<a href="https://linukaarambawela.me/" target="_blank">Personal Portfolio</a>
 
+--- 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/LinukaAr" target="_blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="LinukaAr" /></a></p>
 <br><br>
 
+---
 <h3 align="left">Connect with me:</h3>
 <p>
 <a href="https://linukaarambawela.me/"target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'> </a>
-<a href="https://github.com/LinukaAr"target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'> </a>
+<a href="https://www.linkedin.com/in/linuka-arambawela/"target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='Linkedin' height='40'> </a>
 <a href="https://www.facebook.com/profile.php?id=100011398414568"target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'w> </a> 
 </p> 
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -64,16 +68,21 @@ Skills: JavaScript/Java/Python/CSS /HTML/Bootsrap/Springboot/ReactJs/SQL/Azure/A
     </a>
 </p>
 
+---
 
+### GitHub Stats:
 
-
+<div align="center">
+</div>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinukaAr&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 <img width=390 src="https://streak-stats.demolab.com/?user=LinukaAr&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=LinukaAr&show_icons=true&theme=react&border_radius=10" width=390 />
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LinukaAr&theme=transparent&border_radius=5&hide_border=true&card_width=0&line_height=20&rank_icon=github)  
+---
+
 # Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -82,6 +91,7 @@ Skills: JavaScript/Java/Python/CSS /HTML/Bootsrap/Springboot/ReactJs/SQL/Azure/A
 <li><a href="https://medium.com/@linukaarambawela/beyond-http-leveraging-websockets-for-real-time-communication-05e5c4661faa?source=rss-1e74636a6ac6------2">Beyond HTTP: Leveraging WebSockets for Real-Time Communication</a></li>
 <!-- BLOG-POST-LIST:END -->
 
+---
 
 # Swags
 [![An image of @linukaar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/linukaar)](https://holopin.io/@linukaar)
