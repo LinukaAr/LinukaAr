@@ -1,10 +1,6 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Linuka+Arambawela!;" />
 </h1>
-👀 I’m interested in Developing & Desinging<br>
-- 🔘 DM to colab<br>
-
-Skills: JavaScript/Java/Python/CSS /HTML/Bootsrap/Springboot/ReactJs/SQL/Azure/Arduino 
 
 - 🏅<a href="https://drive.google.com/drive/folders/1Fr4FEvTsbg78oJzoTCTcGbH58O8syNxW" target="_blank">Download my CV</a>
 - 💻<a href="https://linukaarambawela.me/" target="_blank">Personal Portfolio</a>
