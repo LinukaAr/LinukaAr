@@ -1,7 +1,9 @@
 <h1 align="center">
     <img src="https://github.com/user-attachments/assets/29f71bfe-ab97-4b17-878f-3610b80cc973" alt="mlsa_logo" width="100" style="vertical-align: middle;" />
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Linuka+Arambawela!;" /><br>
+    <a href="https://drive.google.com/drive/folders/1Fr4FEvTsbg78oJzoTCTcGbH58O8syNxW" target="_blank">
         <img src="https://img.shields.io/badge/Download%20my%20CV-blue?style=for-the-badge&logo=google-drive&logoColor=white" alt="Download CV Badge"/>
+    </a>
 </h1>
 
 ### 📊 GitHub Stats
