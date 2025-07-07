@@ -18,6 +18,7 @@
 # Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+<li><a href="https://medium.com/@linukaarambawela/streamline-your-meeting-management-with-ballerinas-zoom-scheduler-connector-6cf9f4579155?source=rss-1e74636a6ac6------2">Streamline Your Meeting Management with Ballerina’s Zoom Scheduler Connector</a></li>
 <li><a href="https://medium.com/@linukaarambawela/new-to-open-source-learn-contribute-and-grow-262d17d56604?source=rss-1e74636a6ac6------2">New to open source? Learn, Contribute, and Grow</a></li>
 <li><a href="https://medium.com/@linukaarambawela/cloud-computing-101-introduction-to-azure-58be800ae16b?source=rss-1e74636a6ac6------2">Cloud Computing 101: Introduction to Azure</a></li>
 <li><a href="https://medium.com/@linukaarambawela/apis-101-introduction-to-postman-b66ef21d32d5?source=rss-1e74636a6ac6------2">APIs 101: Introduction to Postman</a></li>
