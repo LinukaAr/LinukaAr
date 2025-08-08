@@ -6,12 +6,24 @@
     </a>
 </h1>
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats 
 
 <p align="center">
+  <!-- GitHub Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=LinukaAr&show_icons=true&theme=react&border_radius=10" width="390" height="197" style="vertical-align: top;" alt="GitHub Stats" />
+  
+  <!-- GitHub Streak Card -->
   <img src="https://streak-stats.demolab.com/?user=LinukaAr&count_private=true&theme=react&border_radius=10" width="390" height="190" style="vertical-align: top;" alt="GitHub Streak" />
+  
+  <br> 
+  <br>
+  
+  <!-- Committers.top Badge -->
+  <a href="https://user-badge.committers.top/sri_lanka/LinukaAr" target="_blank">
+    <img src="https://user-badge.committers.top/sri_lanka/LinukaAr.svg" alt="Committers Top Badge" style="vertical-align: middle; margin-left: 20px;" />
+  </a>
 </p>
+
 
 ---
 
