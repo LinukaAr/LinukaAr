@@ -30,11 +30,11 @@
 # Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-<li><a href="https://medium.com/@linukaarambawela/streamline-your-meeting-management-with-ballerinas-zoom-scheduler-connector-6cf9f4579155?source=rss-1e74636a6ac6------2">Streamline Your Meeting Management with Ballerina’s Zoom Scheduler Connector</a></li>
-<li><a href="https://medium.com/@linukaarambawela/new-to-open-source-learn-contribute-and-grow-262d17d56604?source=rss-1e74636a6ac6------2">New to open source? Learn, Contribute, and Grow</a></li>
-<li><a href="https://medium.com/@linukaarambawela/cloud-computing-101-introduction-to-azure-58be800ae16b?source=rss-1e74636a6ac6------2">Cloud Computing 101: Introduction to Azure</a></li>
-<li><a href="https://medium.com/@linukaarambawela/apis-101-introduction-to-postman-b66ef21d32d5?source=rss-1e74636a6ac6------2">APIs 101: Introduction to Postman</a></li>
-<li><a href="https://medium.com/@linukaarambawela/beyond-http-leveraging-websockets-for-real-time-communication-05e5c4661faa?source=rss-1e74636a6ac6------2">Beyond HTTP: Leveraging WebSockets for Real-Time Communication</a></li>
+<li><a href="https://medium.com/@linukaarambawela/the-30-second-secret-how-your-phone-generates-unbreakable-codes-2b9c66972c6c?source=rss-1e74636a6ac6------2">The 30-Second Secret: How Your Phone Generates Unbreakable Codes</a></li>
+<li><a href="https://medium.com/@linukaarambawela/clawdbot-full-tutorial-how-to-set-up-your-local-ai-powerhouse-76b2d9f5cee9?source=rss-1e74636a6ac6------2">ClawdBot Full Tutorial: How to Set Up Your Local AI Powerhouse</a></li>
+<li><a href="https://medium.com/@linukaarambawela/the-unexpected-beginning-097b0d3a7f1a?source=rss-1e74636a6ac6------2">The Unexpected Beginning</a></li>
+<li><a href="https://medium.com/@linukaarambawela/the-magic-behind-sign-in-with-google-how-wso2-identity-server-makes-federated-authentication-549f5c679451?source=rss-1e74636a6ac6------2">The Magic Behind “Sign in with Google” — How WSO2 Identity Server Makes Federated Authentication…</a></li>
+<li><a href="https://medium.com/@linukaarambawela/oidc-vs-saml-432f8a0ce891?source=rss-1e74636a6ac6------2">OIDC vs SAML</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 ---
